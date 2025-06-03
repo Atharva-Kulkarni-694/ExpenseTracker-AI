@@ -8,7 +8,7 @@ A web-based app that uses machine learning to auto-categorize your expenses and 
 - Pie chart analytics (Plotly)
 - Budget management
 
-Author - Atharva Kulkarni
+Author - Atharva Ajay Kulkarni
 
 ## Run Locally
 ```bash
