@@ -1,0 +1,11 @@
+Flask
+scikit-learn
+pandas
+plotly
+
+
+#Additional Folder Setup for the Project
+mkdir expense-tracker
+cd expense-tracker
+mkdir model templates static data
+touch app.py train_model.py requirements.txt README.md
