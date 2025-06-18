@@ -19,10 +19,3 @@ This is a **web-based application 🌐** that automatically categorizes your exp
 - 💰 **Budget Management**  
   Track your spending habits and manage your budget effectively.
 
-
-## 🚀 Run Locally
-Follow these simple steps to set up the project on your machine:
-
-1. 📂 Clone the repository:
-```bash
-git clone [Your GitHub Repository Link]
